@@ -1,0 +1,33 @@
+﻿@model StudentViewModel
+
+
+<form asp-area="Admin"
+      asp-controller="Students"
+      asp-action="Delete"
+      method="post">
+    <input type="hidden" asp-for="User.Id" />
+
+    <div class="card w-50 mt-5 ms-5">
+        <div class="card-header display-6 mt-2 text-danger">
+            Öğrenci Siliniyor!
+        </div>
+        <div class="card-body mt-5">
+            <div class="row">
+                <div class="col-3">
+                    <img src="~/images/@Model.Image.Url" class="img-thumbnail" width="100" alt="...">
+                </div>
+                <div class="col-9">
+                    <h5 class="card-title">@Model.FirstName @Model.LastName</h5>
+                    <p class="card-text">@Model.City</p>
+                    <p class="card-text">@Model.Phone</p>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-danger float-end mt-5">Sil</button>
+        </div>
+    </div>
+
+</form>
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}

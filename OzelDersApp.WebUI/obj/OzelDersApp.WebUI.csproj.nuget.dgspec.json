@@ -1,0 +1,399 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/OzelDersApp.WebUI.csproj": {}
+  },
+  "projects": {
+    "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Business/OzelDersApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Business/OzelDersApp.Business.csproj",
+        "projectName": "OzelDersApp.Business",
+        "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Business/OzelDersApp.Business.csproj",
+        "packagesPath": "/Users/aanilakgun/.nuget/packages/",
+        "outputPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aanilakgun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Data/OzelDersApp.Data.csproj": {
+                "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Data/OzelDersApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Core/OzelDersApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Core/OzelDersApp.Core.csproj",
+        "projectName": "OzelDersApp.Core",
+        "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Core/OzelDersApp.Core.csproj",
+        "packagesPath": "/Users/aanilakgun/.nuget/packages/",
+        "outputPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aanilakgun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Data/OzelDersApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Data/OzelDersApp.Data.csproj",
+        "projectName": "OzelDersApp.Data",
+        "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Data/OzelDersApp.Data.csproj",
+        "packagesPath": "/Users/aanilakgun/.nuget/packages/",
+        "outputPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aanilakgun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Entity/OzelDersApp.Entity.csproj": {
+                "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Entity/OzelDersApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Entity/OzelDersApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Entity/OzelDersApp.Entity.csproj",
+        "projectName": "OzelDersApp.Entity",
+        "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Entity/OzelDersApp.Entity.csproj",
+        "packagesPath": "/Users/aanilakgun/.nuget/packages/",
+        "outputPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aanilakgun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/OzelDersApp.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/OzelDersApp.WebUI.csproj",
+        "projectName": "OzelDersApp.WebUI",
+        "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/OzelDersApp.WebUI.csproj",
+        "packagesPath": "/Users/aanilakgun/.nuget/packages/",
+        "outputPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aanilakgun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Business/OzelDersApp.Business.csproj": {
+                "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Business/OzelDersApp.Business.csproj"
+              },
+              "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Core/OzelDersApp.Core.csproj": {
+                "projectPath": "/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.Core/OzelDersApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCoreHero.ToastNotification": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Iyzipay": {
+              "target": "Package",
+              "version": "[2.1.55, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

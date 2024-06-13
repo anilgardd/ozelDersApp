@@ -1,0 +1,33 @@
+﻿<a asp-area="" asp-controller="Home" asp-action="GetAllAdverts" class="nav-item nav-link btn">
+    <i class="fa-solid fa-note-sticky"></i><span class="ms-2 d-none d-sm-inline-block">İlanlar</span>
+</a>
+@if (User.Identity.IsAuthenticated)
+{
+    if (User.IsInRole("Admin"))
+    {
+        <a class="btn nav-item nav-link" asp-area="Admin" asp-controller="Home" asp-action="Index">Admin Paneli</a>
+    }
+    if (User.IsInRole("Ogretmen"))
+    {
+        <a class="btn nav-item nav-link" asp-area="" asp-controller="Advert" asp-action="Index" asp-route-id="@User.Identity.Name">
+            <i class="fa-solid fa-laptop-file"></i><span class="ms-2 d-none d-sm-inline-block">İlanlarım</span>
+        </a>
+    }   
+    <a asp-area="" asp-controller="Cart" asp-action="Index" class="nav-item nav-link btn">
+        <i class="fa fa-shopping-cart"></i><span class="ms-2 d-none d-sm-inline-block">Sepetim</span>
+    </a>
+    <a asp-area="" asp-controller="Account" asp-action="Manage" asp-route-id="@User.Identity.Name" class="nav-item nav-link btn">
+        <i class="fa fa-user"></i><span class="ms-2 d-none d-sm-inline-block">Hesabım</span>
+    </a>
+    <a asp-area="" asp-controller="Account" asp-action="Logout" class="nav-item nav-link btn ">
+        <i class="fa-solid fa-arrow-right-from-bracket"></i><span class="ms-2 d-none d-sm-inline-block">Çıkış Yap</span>
+    </a>
+}
+else
+{
+    
+    <a asp-area="" asp-controller="Account" asp-action="Login" class="nav-item nav-link btn ">
+        <i class="fa-solid fa-right-to-bracket"></i><span class="ms-2 d-none d-sm-inline-block">Giriş Yap</span>
+    </a>
+    
+}

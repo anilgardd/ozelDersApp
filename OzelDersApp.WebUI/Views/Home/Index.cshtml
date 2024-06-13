@@ -1,0 +1,16 @@
+﻿@*@model List<AdvertViewModel>
+
+@{
+    ViewData["Title"] = "Ana Sayfa";
+    List<AdvertViewModel> adverts = Model;
+}
+*@
+<div class="container mt-5">
+    @await Html.PartialAsync("_AboutPartial")
+   @* @await Component.InvokeAsync("Branches")
+    @await Html.PartialAsync("_TeamPartial")
+    @await Html.PartialAsync("_CoursesPartial",adverts)  
+    @*ilanların listelenceği kısım*@
+</div>
+
+

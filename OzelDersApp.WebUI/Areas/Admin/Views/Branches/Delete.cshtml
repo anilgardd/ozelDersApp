@@ -1,0 +1,29 @@
+﻿@model BranchViewModel
+
+@*<h1 class="display-6 mt-2 text-danger">Ders Siliniyor!</h1>
+<hr />
+*@
+<div class="ms-5 mt-5">
+    <form asp-area="Admin"
+      asp-controller="Branches"
+      asp-action="Delete"
+      method="post">
+    <div class="card w-50">
+        <div class="card-header display-6 mt-2 text-danger">
+            Ders Siliniyor!
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@Model.BranchName</h5>
+            <p class="card-text">@Model.Description</p>
+            <button type="submit" class="btn btn-danger">Sil</button>
+        </div>
+    </div>
+</form>
+</div>
+
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}
+
+
+

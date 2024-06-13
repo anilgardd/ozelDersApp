@@ -1,0 +1,243 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OzelDersApp.WebUI
+build_property.RootNamespace = OzelDersApp.WebUI
+build_property.ProjectDir = /Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Branches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Branches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Branches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Branches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmNoZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Roles/RoleAssignment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvUm9sZUFzc2lnbm1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Shared/_DataTablesScriptsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19EYXRhVGFibGVzU2NyaXB0c1BhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Shared/_DataTablesStylesPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19EYXRhVGFibGVzU3R5bGVzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Shared/_ValidatonScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19WYWxpZGF0b25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3R1ZGVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhY2hlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Account/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9NYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Account/StudentRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9TdHVkZW50UmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Account/TeacherRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9UZWFjaGVyUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Advert/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Advert/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Advert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Home/AdvertDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZHZlcnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Home/GetAllAdverts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HZXRBbGxBZHZlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Home/TeacherDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZWFjaGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/Components/Branches/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQnJhbmNoZXMvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_AboutPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BYm91dFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_CoursesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db3Vyc2VzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_DataTablesScriptsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19EYXRhVGFibGVzU2NyaXB0c1BhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_DataTablesStylesPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19EYXRhVGFibGVzU3R5bGVzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_NoRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ob1JlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_TeamPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19UZWFtUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_TeamPartPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19UZWFtUGFydFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/aanilakgun/Desktop/Proje/OzelDersApp 2/OzelDersApp.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1ayp5ozs8m
